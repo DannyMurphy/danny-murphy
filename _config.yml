@@ -1,3 +1,4 @@
 name: Danny Murphy
 markdown: redcarpet
 pygments: true
+baseurl: /danny-murphy
