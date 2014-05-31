@@ -6,6 +6,6 @@ categories: Portfolio WAM
 ---
 
 
-We have recently release the third version of WAM tickets, our online Point of Sale (POS) system. Which runs all of the Museums ticketed events.
+We recently released the third version of WAM tickets, our online Point of Sale (POS) system. Which runs all of the Western Australian Museums' ticketed events.
 
 ![Tickting POS screenshot with App icon]({{ site.url }}/images/wam_ticketing.jpg)
